@@ -1,0 +1,19 @@
+{
+    "chain_name": "kiichain",
+    "coingecko": "",
+    "api": ["https://kiichain-api.5kage.pro"],
+    "rpc": ["https://kiichain-rpc.5kage.pro"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "kii",
+    "logo": "/logos/Kiichain.png",
+    "assets": [{
+        "base": "ukii",
+        "symbol": "KII",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/Kiichain.png"
+    }]
+}

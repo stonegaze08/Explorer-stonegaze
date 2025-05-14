@@ -1,0 +1,19 @@
+{
+    "chain_name": "lumera",
+    "coingecko": "",
+    "api": ["https://lumera-testnet-api.polkachu.com/"],
+    "rpc": ["https://lumera-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.11",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "lumera",
+    "logo": "/logos/lumera.png",
+    "assets": [{
+        "base": "ulume",
+        "symbol": "LUME",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/lumera.png"
+    }]
+}

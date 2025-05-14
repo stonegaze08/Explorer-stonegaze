@@ -1,0 +1,19 @@
+{
+    "chain_name": "Story",
+    "coingecko": "",
+    "api": ["https://aeneid.storyscan.app"],
+    "rpc": ["https://story-aeneid-evm-rpc.stakeme.pro"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "story",
+    "logo": "/logos/story.jpg",
+    "assets": [{
+        "base": "ip",
+        "symbol": "ip",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/story.jpg"
+    }]
+}

@@ -1,0 +1,20 @@
+{
+    "chain_name": "union",
+    "coingecko": "",
+    "api": ["https://union-testnet.api.kjnodes.com"],
+    "rpc": ["https://union-testnet.rpc.kjnodes.com"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.0.0-20241204135516-0f420992ae1e",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "union",
+    "logo": "/logos/union.jpg",
+    "keplr_features": ["eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "muno",
+        "symbol": "UNO",
+        "exponent": "6", 
+        "coingecko_id": "",
+        "logo": "/logos/union.jpg"
+    }]
+}

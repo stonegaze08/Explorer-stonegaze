@@ -2,9 +2,9 @@
 
 ![Ping Wallet](./public/logo.svg)
 
-<h1>ITRocket Explorer</h1>
+<h1>StoneGaze Explorer</h1>
 
-**ITRocket Explorer is not only an explorer but also a wallet and more ... 🛠**
+**StoneGaze Explorer is not only an explorer but also a wallet and more ... 🛠**
 
 [![version](https://img.shields.io/github/tag/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/releases/latest)
 [![GitHub](https://img.shields.io/github/license/ping-pub/explorer.svg)](https://github.com/ping-pub/explorer/blob/master/LICENSE)
@@ -27,8 +27,8 @@ To make this repository clean, please submit your request to https://github.com/
 ## Why does Ping Explorer rely on official/trusted third-party public LCD/RPC servers?
 There are two primary reasons for this choice:
 
- - Trust: In a decentralized system, it is crucial to avoid relying solely on a single entity. By utilizing official/trusted third-party public LCD/RPC servers, ITRocket Explorer ensures that the data is sourced from a network of trusted participants.
- - Limited Resources: As ITRocket Explorer plans to list hundreds of Cosmos-based blockchains in the future, it is impractical for the Ping team to operate validators or full nodes for all of them. Leveraging trusted third-party servers allows for more efficient resource allocation.
+ - Trust: In a decentralized system, it is crucial to avoid relying solely on a single entity. By utilizing official/trusted third-party public LCD/RPC servers, StoneGaze Explorer ensures that the data is sourced from a network of trusted participants.
+ - Limited Resources: As StoneGaze Explorer plans to list hundreds of Cosmos-based blockchains in the future, it is impractical for the Ping team to operate validators or full nodes for all of them. Leveraging trusted third-party servers allows for more efficient resource allocation.
 
 ## Donation
 
