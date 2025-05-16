@@ -48,10 +48,9 @@ const chainStore = useBlockchain();
 </script>
 <template>
   <div class="">
-    <div
-      class="flex md:!flex-row flex-col items-center justify-center mb-6 mt-14 gap-2"
-    >
-      <h1 class="text-lime-600 dark:invert text-3xl md:!text-6xl font-bold">
+    <div class="flex flex-col md:flex-row items-center justify-center mb-6 mt-14 gap-1">
+      <img src="/src/assets/logo-noback.png" alt="Header Image" class="w-16 h-16 md:w-24 md:h-24 object-cover rounded-full">
+      <h1 class="text-lime-600 dark:invert text-3xl md:text-6xl font-bold">
         {{ $t('pages.title') }}
       </h1>
     </div>

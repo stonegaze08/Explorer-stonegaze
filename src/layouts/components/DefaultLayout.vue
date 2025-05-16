@@ -88,7 +88,8 @@ dayjs();
     >
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
-          <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
+          <img src="/src/assets/logo-noback.png" alt="StoneGaze Logo" class="w-16 h-16 md:w-18 md:h-18 object-cover rounded-full mr-1">
+          <h1 class="flex-1 text-2xl font-semibold dark:text-white">
             StoneGaze
           </h1>
         </RouterLink>
