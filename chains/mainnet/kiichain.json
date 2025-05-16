@@ -1,7 +1,7 @@
 {
     "chain_name": "kiichain",
     "coingecko": "",
-    "api": ["https://kiichain-api.5kage.pro"],
+    "api": ["https://lcd.dos.sentry.testnet.v3.kiivalidator.com"],
     "rpc": ["https://kiichain-rpc.5kage.pro"],
     "snapshot_provider": "",
     "sdk_version": "v0.45.10",
