@@ -1,7 +1,7 @@
 {
     "chain_name": "union",
     "coingecko": "",
-    "api": ["https://union-testnet.api.kjnodes.com"],
+    "api": ["https://rest.testnet-9.union.build"],
     "rpc": ["https://union-testnet.rpc.kjnodes.com"],
     "snapshot_provider": "",
     "sdk_version": "v0.0.0-20241204135516-0f420992ae1e",

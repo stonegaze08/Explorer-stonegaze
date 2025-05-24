@@ -1,0 +1,19 @@
+{
+    "chain_name": "Self Chain",
+    "coingecko": "",
+    "api": ["https://selfchain.api.t.stavr.tech"],
+    "rpc": ["https://zenrock-mainnet-rpc.itrocket.net"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.10-zenrock",
+    "coin_type": "0",
+    "min_tx_fee": "800",
+    "addr_prefix": "zen",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "urock",
+        "symbol": "ROCK",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}
