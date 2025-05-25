@@ -25,4 +25,4 @@ delete-build-folder:
 	@rm -rf dist
 	@echo "Delete build folder success."
 
-restart: pull install build restart-pm2
+restart: pull build restart-pm2
