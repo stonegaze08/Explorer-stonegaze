@@ -1,0 +1,19 @@
+{
+    "chain_name": "empeiria",
+    "coingecko": "",
+    "api": ["https://empe-testnet-api.polkachu.com"],
+    "rpc": ["https://rpc-test.empe.vinjan.xyz"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.45.10",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "empe",
+    "logo": "/logos/empeiria.jpg",
+    "assets": [{
+        "base": "empe",
+        "symbol": "empe",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/empeiria.jpg"
+    }]
+}
