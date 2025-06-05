@@ -1,7 +1,7 @@
 {
     "chain_name": "empeiria",
     "coingecko": "",
-    "api": ["https://empe-testnet-api.polkachu.com"],
+    "api": ["https://lcd-testnet.empe.io"],
     "rpc": ["https://rpc-test.empe.vinjan.xyz"],
     "snapshot_provider": "",
     "sdk_version": "v0.45.10",
