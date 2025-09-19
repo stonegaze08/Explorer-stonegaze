@@ -1,5 +1,5 @@
 {
-    "chain_name": "Self Chain",
+    "chain_name": "Self Chain-tetsnet",
     "coingecko": "",
     "api": ["https://selfchain.api.t.stavr.tech"],
     "rpc": ["https://rpc-cosmoshub.keplr.app"],

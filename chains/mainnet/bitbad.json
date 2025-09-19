@@ -1,0 +1,19 @@
+{
+    "chain_name": "bitbadges-Mainnet",
+    "coingecko": "",
+    "api": ["https://node.bitbadges.io/api"],
+    "rpc": ["https://node.bitbadges.io/rpc"],
+    "snapshot_provider": "",
+    "sdk_version": "v0.50.13",
+    "coin_type": "118",
+    "min_tx_fee": "1000",
+    "addr_prefix": "bb",
+    "logo": "/logos/bitbad.png",
+    "assets": [{
+        "base": "ubadge",
+        "symbol": "BADGE",
+        "exponent": "9",
+        "coingecko_id": "",
+        "logo": "/logos/bitbad.png"
+    }]
+}

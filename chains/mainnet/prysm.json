@@ -1,5 +1,5 @@
 {
-  "chain_name": "pryzm",
+  "chain_name": "pryzm-testnet",
   "api": [
     "https://pryzm-testnet-api.itrocket.net"
   ],

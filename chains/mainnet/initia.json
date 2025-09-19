@@ -1,5 +1,5 @@
 {
-    "chain_name": "Initia",
+    "chain_name": "Initia-Testnet",
     "coingecko": "",
     "api": ["https://initia-testnet-api.itrocket.net"],
     "rpc": ["https://initia-testnet-rpc.itrocket.net"],

@@ -1,0 +1,39 @@
+{
+  "chain_name": "union-mainnet",
+  "coingecko": "https://www.coingecko.com/en/coins/union",
+  "api": [
+    {
+      "address": "https://rest.union.build",
+      "provider": "union.build"
+    },
+    {
+      "address": "https://union-api.polkachu.com",
+      "provider": "polkachu.com"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://rpc.union.build",
+      "provider": "union.build"
+    },
+    {
+      "address": "https://union-rpc.polkachu.com",
+      "provider": "polkachu.com"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "",
+  "coin_type": "60",
+  "min_tx_fee": "1000000000000000",
+  "addr_prefix": "union",
+  "logo": "/logos/union.jpg",
+  "assets": [
+    {
+      "base": "au",
+      "symbol": "U",
+      "exponent": "18",
+      "coingecko_id": "union",
+      "logo": "/logos/union.jpg"
+    }
+  ]
+}

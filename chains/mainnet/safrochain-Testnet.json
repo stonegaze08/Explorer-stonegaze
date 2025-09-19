@@ -1,0 +1,19 @@
+{
+    "chain_name": "safrochain-Testnet",
+    "coingecko": "",
+    "api": ["https://rest.testnet.safrochain.com"],
+    "rpc": ["https://rpc.testnet.safrochain.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.0",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "addr_safro",
+    "logo": "/logos/safrochain.png",
+    "assets": [{
+        "base": "usaf",
+        "symbol": "SAF",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/safrochain.png"
+    }]
+}

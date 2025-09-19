@@ -1,5 +1,5 @@
 {
-    "chain_name": "pell",
+    "chain_name": "pell-Testnet",
     "coingecko": "",
     "api": ["https://pell-testnet-api.itrocket.net"], 
     "rpc": ["https://pell-testnet-rpc.itrocket.net"],

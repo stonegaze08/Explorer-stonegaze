@@ -1,19 +1,43 @@
 {
-    "chain_name": "empeiria",
-    "coingecko": "",
-    "api": ["https://lcd-testnet.empe.io"],
-    "rpc": ["https://rpc-test.empe.vinjan.xyz"],
-    "snapshot_provider": "",
-    "sdk_version": "v0.45.10",
-    "coin_type": "118",
-    "min_tx_fee": "1000",
-    "addr_prefix": "empe",
-    "logo": "/logos/empeiria.jpg",
-    "assets": [{
-        "base": "empe",
-        "symbol": "empe",
-        "exponent": "6",
-        "coingecko_id": "",
-        "logo": "/logos/empeiria.jpg"
-    }]
+  "chain_name": "empeiria-Testnet",
+  "api": [
+    {
+      "provider": "EMPE",
+      "address": "https://lcd-testnet.empe.io"
+    }
+  ],
+  "rpc": [
+    {
+      "provider": "EMPE",
+      "address": "https://rpc-testnet.empe.io"
+    },
+    {
+      "provider": "EMPE-ARCHIVE",
+      "address": "https://rpc-archive-testnet.empe.io"
+    },
+    {
+      "provider": "CryptoNodeID",
+      "address": "https://empeiria-testnet-rpc.cryptonode.id"
+    }
+  ],
+  "sdk_version": "0.47.12",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "empe",
+  "logo": "/logos/empeiria.jpg",
+  "snapshot_provider": "https://archive-testnet.empe.io",
+  "assets": [
+    {
+      "base": "uempe",
+      "symbol": "EMPE",
+      "exponent": "6",
+      "logo": "/logos/empeiria.jpg"
+    }
+  ],
+  "faucet": {
+    "amount": "1500000uempe",
+    "ip_limit": "1",
+    "address_limit": "1",
+    "fees": "30uempe"
+  }
 }

@@ -1,0 +1,39 @@
+{
+  "chain_name": "gitopia-Mainnet",
+  "coingecko": "https://www.coingecko.com/en/coins/gitopia",
+  "api": [
+    {
+      "address": "https://gitopia-rest.stonegaze.net",
+      "provider": "stonegaze.net"
+    },
+    {
+      "address": "https://gitopia-api.polkachu.com",
+      "provider": "polkachu.com"
+    }
+  ],
+  "rpc": [
+    {
+      "address": "https://gitopia-rpc.stonegaze.net",
+      "provider": "polkachu.com"
+    },
+    {
+      "address": "https://gitopia-rpc.polkachu.com",
+      "provider": "polkachu.com"
+    }
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.46.12",
+  "coin_type": "118",
+  "min_tx_fee": "3000",
+  "addr_prefix": "gitopia",
+  "logo": "/logos/gitopia.png",
+  "assets": [
+    {
+      "base": "ulore",
+      "symbol": "LORE",
+      "exponent": "6",
+      "coingecko_id": "gitopia",
+      "logo": "/logos/gitopia.png"
+    }
+  ]
+}

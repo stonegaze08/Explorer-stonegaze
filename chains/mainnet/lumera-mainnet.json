@@ -1,8 +1,8 @@
 {
-    "chain_name": "lumera-Testnet",
+    "chain_name": "lumera-Mainnet",
     "coingecko": "",
-    "api": ["https://lumera-testnet-api.polkachu.com/"],
-    "rpc": ["https://lumera-testnet-rpc.polkachu.com"],
+    "api": ["https://lumera-api.polkachu.com/"],
+    "rpc": ["https://lumera-rpc.polkachu.com"],
     "snapshot_provider": "",
     "sdk_version": "v0.50.11",
     "coin_type": "118",

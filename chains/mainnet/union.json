@@ -1,5 +1,5 @@
 {
-    "chain_name": "union",
+    "chain_name": "union-testnet",
     "coingecko": "",
     "api": ["https://rest.testnet-9.union.build"],
     "rpc": ["https://union-testnet.rpc.kjnodes.com"],
