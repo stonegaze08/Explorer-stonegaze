@@ -1,5 +1,5 @@
 {
-    "chain_name": "crossfi",
+    "chain_name": "crossfi-mainnet",
     "coingecko": "",
     "api": ["https://crossfi-mainnet-api.itrocket.net"], 
     "rpc": ["https://crossfi-mainnet-rpc.itrocket.net"],
